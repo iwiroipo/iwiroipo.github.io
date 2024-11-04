@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwiroipo.github.io/Eho/sitemap_index.txt
+Sitemap: https://iwiroipo.github.io/cMv/sitemap_index.txt
+Sitemap: https://iwiroipo.github.io/eHC/sitemap_index.txt
+Sitemap: https://iwiroipo.github.io/rLq/sitemap_index.txt
